@@ -2,7 +2,6 @@
 <h2>Lucas Ghilardi</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre Mim </h3>
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.
@@ -12,6 +11,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
