@@ -39,7 +39,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/lucsghilardi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsghilardi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsghilardi&theme=buefy&layout=compact" />
 </a>
