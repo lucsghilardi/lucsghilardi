@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas Ghilardi 👋</h1>
 
 <p align="center">
-  Desenvolvedor full stack · Fundador da <a href="https://movidoaweb.com.br">Movido a Web</a> · Brasil 🇧🇷
+  Desenvolvedor full stack & Analista de Sistemas · Fundador da <a href="https://movidoaweb.com.br">Movido a Web</a> · Brasil 🇧🇷
 </p>
 
 <p align="center">
@@ -14,8 +14,13 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-- 🏢 Fundador da **Movido a Web**, onde desenvolvo sistemas de gestão sob medida para empresas.
-- 🤝 Presto consultoria e desenvolvimento para **Beef Boutique**, **Nitrogym**, **Bertaglia**, **Travel Ahead** e outros clientes.
+Sou desenvolvedor full stack há **22 anos**, com foco em sistemas de gestão para empresas. Atuo de ponta a ponta: entendo o problema com o cliente, desenho a arquitetura e o modelo de dados, desenvolvo e entrego a solução em produção.
+
+- 🏢 Fundador da **Movido a Web**, empresa de desenvolvimento de sistemas que completou **18 anos** e segue ativa até hoje.
+- 🧑‍💻 Comecei a carreira como programador na **D-Link**, onde aprendi a construir software que precisa funcionar em escala.
+- 🎯 Fui **Supervisor de Desenvolvimento na agência AMZMP**, liderando projetos digitais para clientes como **Aon**, **Novartis** e **Digio Banco**.
+- 🤝 Hoje presto consultoria e desenvolvimento para **Beef Boutique**, **Nitrogym**, **Bertaglia**, **Travel Ahead** e outros clientes.
+- 🧭 **Analista e arquiteto de soluções**: faço o levantamento de requisitos, desenho a estrutura do sistema (banco, API, telas, integrações) e apresento a solução ao cliente antes de escrever a primeira linha de código.
 - 🔁 Especialista em **modernizar sistemas legados** sem parar a operação: substituo módulo a módulo, com o novo e o antigo rodando lado a lado sobre o mesmo banco.
 - 🧩 Gosto de resolver as partes chatas do software brasileiro: **NF-e / NFC-e**, **boleto e Pix** (Itaú, Bradesco), integrações com **WhatsApp**, **Omie** e **SEFAZ**.
 - 📚 Mantenho o [Teia de Palavras](https://github.com/lucsghilardi/teia-de-palavras), um portal educativo gratuito e open source que comecei para ajudar meu filho a aprender a ler.
@@ -67,6 +72,12 @@
 | [**Teia de Palavras**](https://github.com/lucsghilardi/teia-de-palavras) | Portal educativo gratuito e open source para crianças 7+: Português, Matemática, Geografia e História em missões pela galáxia. | Laravel · Next.js · PostgreSQL · GitHub Actions |
 
 > A maioria dos projetos de clientes é privada. O Teia de Palavras é aberto e aceita contribuições.
+
+## 📬 Contato
+
+- ✉️ **E-mail:** [lucasghilardi@movidoaweb.com.br](mailto:lucasghilardi@movidoaweb.com.br)
+- 🌐 **Site:** [movidoaweb.com.br](https://movidoaweb.com.br)
+- 💼 **LinkedIn:** [linkedin.com/in/lucasghilardi](https://www.linkedin.com/in/lucasghilardi)
 
 ## 📊 GitHub
 
