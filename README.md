@@ -1,47 +1,80 @@
+<h1 align="center">Olá, eu sou o Lucas Ghilardi 👋</h1>
 
-<h2>Lucas Ghilardi</h2>
+<p align="center">
+  Desenvolvedor full stack · Fundador da <a href="https://movidoaweb.com.br">Movido a Web</a> · Brasil 🇧🇷
+</p>
 
-<h3> 👨🏻‍💻 &nbsp;Sobre Mim </h3>
+<p align="center">
+  <a href="https://movidoaweb.com.br"><img src="https://img.shields.io/badge/movidoaweb.com.br-87bc3b?style=flat&logo=googlechrome&logoColor=white" alt="Site"></a>
+  <a href="https://www.linkedin.com/in/lucasghilardi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lucasghilardi@movidoaweb.com.br"><img src="https://img.shields.io/badge/E--mail-333333?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
+---
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.
-- 💼 &nbsp; Trabalhando como Supervisor de Desenvolvimento na Agencia AMZMP.
+## 👨🏻‍💻 Sobre mim
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🏢 Fundador da **Movido a Web**, onde desenvolvo sistemas de gestão sob medida para empresas.
+- 🤝 Presto consultoria e desenvolvimento para **Beef Boutique**, **Nitrogym**, **Bertaglia**, **Travel Ahead** e outros clientes.
+- 🔁 Especialista em **modernizar sistemas legados** sem parar a operação: substituo módulo a módulo, com o novo e o antigo rodando lado a lado sobre o mesmo banco.
+- 🧩 Gosto de resolver as partes chatas do software brasileiro: **NF-e / NFC-e**, **boleto e Pix** (Itaú, Bradesco), integrações com **WhatsApp**, **Omie** e **SEFAZ**.
+- 📚 Mantenho o [Teia de Palavras](https://github.com/lucsghilardi/teia-de-palavras), um portal educativo gratuito e open source que comecei para ajudar meu filho a aprender a ler.
 
-- 💻 &nbsp;
-  ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+## 🛠 Stack
 
-<br/>
+**Backend**
 
-<a href="https://github.com/lucsghilardi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsghilardi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsghilardi&theme=buefy&layout=compact" />
-</a>
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-<br/>
+**Frontend & Mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Banco de dados & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+**Qualidade & Ferramentas**
+
+![Pest](https://img.shields.io/badge/Pest-F05340?style=flat&logo=pestphp&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-4F5B93?style=flat&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
+## 🚀 O que estou construindo
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Beef Boutique** | Nova plataforma de gestão (ERP) substituindo o legado em CodeIgniter módulo a módulo: financeiro, solicitações de pagamento, WhatsApp, NF-e, logística e pedidos em app mobile. | Laravel · Next.js · MySQL · Redis · Flutter · Python (Omie) |
+| **Nitrogym** | Sistema completo de gestão para academia, do cadastro à cobrança, com API-first e painel administrativo. | Laravel · Next.js · PostgreSQL · Docker |
+| **Travel Ahead** | Sistema operacional de turismo receptivo (Cancún / Riviera Maya): cadastros, tarifas multi-região, vendas, reservas, vouchers em pt/en/es, financeiro e comissões. | Laravel · Next.js · PostgreSQL |
+| **Movido a Web** | Painel interno de gestão da empresa: clientes, contratos recorrentes, cobrança por boleto/Pix Itaú e atendimento via WhatsApp. | Laravel · Next.js · PostgreSQL |
+| [**Teia de Palavras**](https://github.com/lucsghilardi/teia-de-palavras) | Portal educativo gratuito e open source para crianças 7+: Português, Matemática, Geografia e História em missões pela galáxia. | Laravel · Next.js · PostgreSQL · GitHub Actions |
+
+> A maioria dos projetos de clientes é privada. O Teia de Palavras é aberto e aceita contribuições.
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucsghilardi&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucsghilardi&theme=dark&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucsghilardi&theme=dark&hide_border=true" alt="Sequência de commits" />
+</p>
